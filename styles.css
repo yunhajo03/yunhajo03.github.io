@@ -94,6 +94,18 @@ a:hover {
     text-decoration: underline;
 }
 
+.github-link {
+    font-size: 0.9em;
+    margin-left: 10px;
+    text-decoration: none;
+    color: #0366d6;
+    font-weight: bold;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
+
 /* Footer */
 footer {
     background-color: #333;
